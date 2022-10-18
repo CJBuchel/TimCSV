@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  background-color: rgb(37, 37, 37);
+}
+
+.main-page {
+  /* top: 0; */
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  color: white;
+}
+
+
+
+.csv-link {
+  margin-top: 15%;
+  margin-left: -20%;
+  /* color: aqua; */
+}
